@@ -1,0 +1,16 @@
+.name{
+    color: white;
+    background-color: rebeccapurple;
+    text-align: center;
+}
+
+img{
+   
+    height:100px;
+    width:100px;
+    margin-right: 30px;
+    
+}
+body{
+    background-color: red;
+}
